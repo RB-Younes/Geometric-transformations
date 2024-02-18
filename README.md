@@ -1,4 +1,4 @@
-# TP Geometry
+# TP Geometric-transformations
 
 This repository contains implementations of geometric transformation functions as part of the TP Geometry assignment. The functions include image transposition, nearest neighbor interpolation, and image expansion using interpolation.
 
